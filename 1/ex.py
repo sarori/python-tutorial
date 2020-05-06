@@ -44,7 +44,7 @@ my_str2 = '3.14'
 my_str3 = 'coding'
 my_str4 = "coding"
 print(my_str1, my_str2, my_str3, my_str4)
-print(type(my_str2))
+print(type(my_str2))    #type() -> type확인 할 수 있다.
 
 #문자열 연산하기 + : 문자열끼리 연결, *: 반복할때 사용
 my_str5 = 'a' + 'b' + 'c'
